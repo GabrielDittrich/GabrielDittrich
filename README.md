@@ -29,6 +29,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" /></a>
 </p>
 
-# Contato
-- E-mail: gdittrchcj@gmail.com
+### Contato
+- E-mail: [gdittrchcj@gmail.com](mailto:gdittrchcj@gmail.com)
 - Número: 41-99697-2323
