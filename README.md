@@ -11,7 +11,8 @@
     </a>
 </div>
 
-#### Linguagens de Programação
+#### Linguagens de Programação:
+
 <p align="center">
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>
