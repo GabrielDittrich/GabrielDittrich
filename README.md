@@ -4,16 +4,6 @@
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 - 🏫 Universidade Positivo  
 - 🚀 Desenvolvedor **Full Stack em formação**, apaixonado por programação e novas tecnologias
-
-<div align="center">
-    <a href="https://github.com/gabrieldittrich">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldittrich&show_icons=true&theme=radical&locale=pt-br&hide=issues" />
-    </a>
-    <a href="https://github.com/gabrieldittrich">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldittrich&layout=compact&locale=pt-br&theme=radical" />
-    </a>
-</div>
-
 ---
 
 ## 🖥️ Linguagens de Programação
