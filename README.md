@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Gabriel Dittrich
+# Olá! Eu sou Gabriel Dittrich
 
 - 🎓 Estudante de **Engenharia de Software**  
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
