@@ -1,60 +1,45 @@
-# Olá! Eu sou Gabriel Dittrich
+# Olá, eu sou Gabriel Dittrich 👋
 
-- 🎓 Estudante de **Engenharia de Software**  
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-- 🏫 Universidade Positivo  
-- 🚀 Desenvolvedor **Full Stack em formação**, apaixonado por programação e novas tecnologias
----
+Sou estudante de Engenharia de Software e formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo.
 
-## 🖥️ Linguagens de Programação
+Atualmente trabalho com suporte técnico de sistemas/CPD, lidando com sistemas internos, usuários, PDVs, impressoras, redes e resolução de problemas técnicos. Estou direcionando minha carreira para desenvolvimento de software, com foco em Back-end .NET e evolução para Full Stack.
 
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
-</p>
+## Objetivo profissional
 
----
+Busco uma oportunidade como Desenvolvedor Back-end Jr, Desenvolvedor Full Stack Jr ou estágio em desenvolvimento, principalmente com C#, ASP.NET Core, Entity Framework, SQL e React.
 
-## ⚙️ Tecnologias, Bancos de Dados e Ferramentas
+## Tecnologias principais
 
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET / Entity Framework" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" width="40" height="40"/>
-</p>
+- C# | .NET | ASP.NET Core
+- Entity Framework | SQL Server | MySQL | SQLite
+- APIs REST | Swagger
+- JavaScript | React
+- Git | GitHub
 
----
+## Projetos em destaque
 
-## 🎨 Marcação e Estilo
+### ServiceDesk Manager
 
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
-</p>
+Sistema em desenvolvimento para gerenciamento de chamados e atendimentos de TI, inspirado em rotinas reais de suporte técnico.
 
----
+**Tecnologias:** C#, ASP.NET Core, Entity Framework, SQL Server e Swagger.  
+**Frontend:** React em desenvolvimento.
 
-## 📫 Contato
+**Funcionalidades:**
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/gabriel-dittrich/?locale=pt_BR" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:gdittrchcj@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://wa.me/5541996972323">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-    </a>
-</p>
+- Cadastro de usuários, categorias e chamados
+- Registro de atendimentos
+- Alteração de status dos chamados
+- Estrutura em camadas: API, Business, Data e Domain
+
+### TaskManagerAPI
+
+API REST para gerenciamento de tarefas e categorias.
+
+**Tecnologias:** C#, ASP.NET Core, Entity Framework, SQLite e Swagger.
+
+### Folha de Pagamento API
+
+API para cadastro de funcionários e cálculo de folha de pagamento.
+
+**Tecnologias:** C#, ASP.NET Core e SQLite.
