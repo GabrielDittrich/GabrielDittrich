@@ -1,45 +1,91 @@
 # Olá, eu sou Gabriel Dittrich 👋
 
-Sou estudante de Engenharia de Software e formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo e atualmente curso Engenharia de Software.
 
-Atualmente trabalho com suporte técnico de sistemas/CPD, lidando com sistemas internos, usuários, PDVs, impressoras, redes e resolução de problemas técnicos. Estou direcionando minha carreira para desenvolvimento de software, com foco em Back-end .NET e evolução para Full Stack.
+Atuo profissionalmente com suporte técnico de sistemas e CPD, atendendo usuários e trabalhando com sistemas internos, PDVs, impressoras, redes e resolução de problemas técnicos. Essa experiência me ajudou a desenvolver análise de problemas, contato com ambientes reais de TI e compreensão das necessidades dos usuários.
+
+Estou direcionando minha carreira para desenvolvimento de software, com foco em Back-end .NET e evolução para Full Stack com React.
 
 ## Objetivo profissional
 
-Busco uma oportunidade como Desenvolvedor Back-end Jr, Desenvolvedor Full Stack Jr ou estágio em desenvolvimento, principalmente com C#, ASP.NET Core, Entity Framework, SQL e React.
+Busco uma oportunidade como Desenvolvedor Back-end Jr, Desenvolvedor Full Stack Jr ou estágio em desenvolvimento, principalmente com C#, ASP.NET Core, Entity Framework Core, SQL, APIs REST e React.
 
-## Tecnologias principais
+## Tecnologias
 
-- C# | .NET | ASP.NET Core
-- Entity Framework | SQL Server | MySQL | SQLite
-- APIs REST | Swagger
-- JavaScript | React
-- Git | GitHub
+**Back-end**
+
+- C#
+- .NET
+- ASP.NET Core
+- Entity Framework Core
+- APIs REST
+- Swagger
+
+**Front-end**
+
+- JavaScript
+- React
+- HTML
+- CSS
+
+**Banco de dados**
+
+- SQL Server
+- MySQL
+- SQLite
+
+**Ferramentas**
+
+- Git
+- GitHub
+- Docker
+- VS Code
 
 ## Projetos em destaque
 
-### ServiceDesk Manager
+### [ServiceDesk Manager](https://github.com/GabrielDittrich/servicedesk-manager)
 
 Sistema em desenvolvimento para gerenciamento de chamados e atendimentos de TI, inspirado em rotinas reais de suporte técnico.
 
-**Tecnologias:** C#, ASP.NET Core, Entity Framework, SQL Server e Swagger.  
-**Frontend:** React em desenvolvimento.
+**Tecnologias:** C#, ASP.NET Core, Entity Framework Core, SQL Server, Swagger e React.
 
-**Funcionalidades:**
+Principais funcionalidades:
 
 - Cadastro de usuários, categorias e chamados
 - Registro de atendimentos
 - Alteração de status dos chamados
-- Estrutura em camadas: API, Business, Data e Domain
+- Organização do backend em camadas
+- Frontend em React em desenvolvimento
 
-### TaskManagerAPI
+---
 
-API REST para gerenciamento de tarefas e categorias.
+### [Gerenciamento Petshop](https://github.com/GabrielDittrich/gerenciamento-petshop-api)
 
-**Tecnologias:** C#, ASP.NET Core, Entity Framework, SQLite e Swagger.
+Sistema full stack para gerenciamento de pessoas, animais e produtos.
 
-### Folha de Pagamento API
+**Tecnologias:** ASP.NET Core, Entity Framework Core, MySQL, React, Swagger e Docker Compose.
 
-API para cadastro de funcionários e cálculo de folha de pagamento.
+Principais funcionalidades:
 
-**Tecnologias:** C#, ASP.NET Core e SQLite.
+- Cadastro e listagem de pessoas
+- Cadastro e listagem de animais
+- Cadastro e listagem de produtos
+- Integração entre frontend e API REST
+- Persistência de dados com MySQL
+- Documentação da API com Swagger
+
+---
+
+### [TaskManagerAPI](https://github.com/GabrielDittrich/TaskManagerAPI)
+
+Sistema para gerenciamento de tarefas e categorias, com API REST em .NET e integração com frontend React.
+
+**Tecnologias:** C#, ASP.NET Core, Entity Framework Core, SQLite, Swagger e React.
+
+---
+
+### [Folha de Pagamento API](https://github.com/GabrielDittrich/folha-de-pagamento-api)
+
+API REST para cadastro de funcionários e gerenciamento de folhas de pagamento.
+
+**Tecnologias:** C#, ASP.NET Core, Entity Framework Core e SQLite.
