@@ -31,7 +31,7 @@ Sistema full stack para gerenciamento de pessoas, animais e produtos, com integr
 
 ---
 
-### [TaskManagerAPI](https://github.com/GabrielDittrich/TaskManager)
+### [TaskManager](https://github.com/GabrielDittrich/TaskManager)
 
 Sistema para gerenciamento de tarefas e categorias, desenvolvido com API REST em .NET e frontend em React.
 
