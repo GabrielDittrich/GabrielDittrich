@@ -23,7 +23,7 @@ Sistema em desenvolvimento para gerenciamento de chamados e atendimentos de TI, 
 
 ---
 
-### [Gerenciamento Petshop](https://github.com/GabrielDittrich/gerenciamento-petshop-api)
+### [Gerenciamento Petshop](https://github.com/GabrielDittrich/gerenciamento-petshop)
 
 Sistema full stack para gerenciamento de pessoas, animais e produtos, com integração entre API REST e frontend.
 
@@ -31,7 +31,7 @@ Sistema full stack para gerenciamento de pessoas, animais e produtos, com integr
 
 ---
 
-### [TaskManagerAPI](https://github.com/GabrielDittrich/TaskManagerAPI)
+### [TaskManagerAPI](https://github.com/GabrielDittrich/TaskManager)
 
 Sistema para gerenciamento de tarefas e categorias, desenvolvido com API REST em .NET e frontend em React.
 
