@@ -1,38 +1,61 @@
+<div align="center">
+
 # Olá, eu sou Gabriel Dittrich 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo e atualmente curso Engenharia de Software.
+**Foco em Desenvolvimento Back-end .NET | C# | ASP.NET Core | SQL | APIs REST | React**
 
-Trabalho com suporte técnico de sistemas e CPD, atendendo usuários e atuando com sistemas internos, PDVs, impressoras, redes e resolução de problemas técnicos.
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-dittrich/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:gdittrchcj@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
-Estou direcionando minha carreira para desenvolvimento de software e busco oportunidades como **Desenvolvedor Back-end Jr, Desenvolvedor Full Stack Jr ou estágio em desenvolvimento**, com foco em C#, .NET, APIs REST, SQL e React.
+</div>
 
-## Tecnologias
+## Sobre mim
 
-**Back-end:** C#, .NET, ASP.NET Core, Entity Framework Core e APIs REST  
-**Front-end:** JavaScript, React, HTML e CSS  
-**Banco de dados:** SQL Server, MySQL e SQLite  
-**Ferramentas:** Git, GitHub, Docker, Swagger e VS Code  
+- Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Positivo.
+- Atualmente cursando **Engenharia de Software**.
+- Trabalho com suporte técnico de sistemas e CPD, atendendo usuários e atuando com sistemas internos, PDVs, impressoras, redes e resolução de problemas técnicos.
+- Busco uma oportunidade como **Desenvolvedor Back-end .NET Jr, Desenvolvedor Full Stack Jr ou estágio em desenvolvimento**.
 
-## Projetos em destaque
+Minha experiência com suporte técnico contribuiu para desenvolver capacidade de análise, resolução de problemas, comunicação com usuários e compreensão do funcionamento de sistemas em ambiente real.
+
+## Tecnologias principais
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-6F42C1?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+## Projetos selecionados
 
 ### [ServiceDesk Manager](https://github.com/GabrielDittrich/servicedesk-manager)
 
 Sistema em desenvolvimento para gerenciamento de chamados e atendimentos de TI, inspirado em rotinas reais de suporte técnico.
 
-**Tecnologias:** C#, ASP.NET Core, Entity Framework Core, SQL Server, Swagger e React.
+`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `Swagger` `React`
 
 ---
 
 ### [Gerenciamento Petshop](https://github.com/GabrielDittrich/gerenciamento-petshop)
 
-Sistema full stack para gerenciamento de pessoas, animais e produtos, com integração entre API REST e frontend.
+Sistema full stack para gerenciamento de pessoas, animais e produtos, com integração entre API REST e interface em React.
 
-**Tecnologias:** ASP.NET Core, Entity Framework Core, MySQL, React, Swagger e Docker Compose.
+`ASP.NET Core` `Entity Framework Core` `MySQL` `React` `Swagger` `Docker Compose`
 
 ---
 
 ### [TaskManager](https://github.com/GabrielDittrich/TaskManager)
 
-Sistema para gerenciamento de tarefas e categorias, desenvolvido com API REST em .NET e frontend em React.
+Sistema para gerenciamento de tarefas e categorias, desenvolvido com API REST em .NET e interface em React.
 
-**Tecnologias:** C#, ASP.NET Core, Entity Framework Core, SQLite, Swagger e React.
+`C#` `ASP.NET Core` `Entity Framework Core` `SQLite` `Swagger` `React`
