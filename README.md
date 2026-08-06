@@ -2,7 +2,7 @@
 
 # Olá, eu sou Gabriel Dittrich 👋
 
-**Foco em Desenvolvimento Back-end .NET | C# | ASP.NET Core | SQL | APIs REST | React**
+**Desenvolvimento Back-end .NET | C# | ASP.NET Core | APIs REST | SQL | React**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-dittrich/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
@@ -16,7 +16,7 @@
 - Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Positivo.
 - Atualmente cursando **Engenharia de Software**.
 - Trabalho com suporte técnico de sistemas e CPD, atendendo usuários e atuando com sistemas internos, PDVs, impressoras, redes e resolução de problemas técnicos.
-- Busco uma oportunidade como **Desenvolvedor Back-end .NET Jr, Desenvolvedor Full Stack Jr ou estágio em desenvolvimento**.
+- Busco uma oportunidade como **Desenvolvedor .NET Júnior, Desenvolvedor Back-end Júnior, Desenvolvedor Full Stack Júnior ou estagiário em desenvolvimento**.
 
 Minha experiência com suporte técnico contribuiu para desenvolver capacidade de análise, resolução de problemas, comunicação com usuários e compreensão do funcionamento de sistemas em ambiente real.
 
@@ -58,4 +58,8 @@ Sistema full stack para gerenciamento de pessoas, animais e produtos, com integr
 
 Sistema para gerenciamento de tarefas e categorias, desenvolvido com API REST em .NET e interface em React.
 
-`C#` `ASP.NET Core` `Entity Framework Core` `SQLite` `Swagger` `React`
+`C#` `ASP.NET Core` `Entity Framework Core` `SQLite` `Swagger` `React` `TypeScript`
+
+## Objetivo profissional
+
+Quero contribuir com o desenvolvimento de aplicações e APIs que resolvam problemas reais, enquanto continuo aprimorando meus conhecimentos em .NET, arquitetura de software, bancos de dados e desenvolvimento full stack.
