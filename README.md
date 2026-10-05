@@ -2,11 +2,12 @@
 
 # Olá, eu sou Gabriel Dittrich 👋
 
-**Desenvolvimento Back-end .NET | C# | ASP.NET Core | APIs REST | SQL | React**
+**Desenvolvedor Back-end .NET Jr | C# | ASP.NET Core | APIs REST | SQL | React**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-dittrich/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:gdittrchcj@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://gabrieldittrich.github.io/portfolio-gabriel/"><img src="https://img.shields.io/badge/PORTFÓLIO-38BDF8?style=for-the-badge&logo=codementor&logoColor=0F172A" alt="Portfólio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-dittrich/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:gdittrchcj@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
 </div>
@@ -15,10 +16,13 @@
 
 - Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Positivo.
 - Atualmente cursando **Engenharia de Software**.
-- Trabalho com suporte técnico de sistemas e CPD, atendendo usuários e atuando com sistemas internos, PDVs, impressoras, redes e resolução de problemas técnicos.
-- Busco uma oportunidade como **Desenvolvedor .NET Júnior, Desenvolvedor Back-end Júnior, Desenvolvedor Full Stack Júnior ou estagiário em desenvolvimento**.
+- Foco em desenvolvimento **Back-end com C#, .NET, ASP.NET Core, APIs REST e bancos de dados**.
+- Também possuo conhecimentos em **React e TypeScript** para desenvolvimento de interfaces e integração com APIs.
+- Atualmente trabalho com suporte técnico de sistemas e CPD, atuando com sistemas internos, usuários, PDVs, impressoras, redes e resolução de problemas técnicos.
 
-Minha experiência com suporte técnico contribuiu para desenvolver capacidade de análise, resolução de problemas, comunicação com usuários e compreensão do funcionamento de sistemas em ambiente real.
+Minha experiência com suporte técnico contribuiu para desenvolver capacidade de análise, resolução de problemas e compreensão do funcionamento de sistemas em ambientes reais.
+
+Busco uma oportunidade como **Desenvolvedor .NET Júnior, Desenvolvedor Back-end Júnior ou Desenvolvedor Full Stack Júnior**.
 
 ## Tecnologias principais
 
@@ -42,7 +46,7 @@ Minha experiência com suporte técnico contribuiu para desenvolver capacidade d
 
 Sistema em desenvolvimento para gerenciamento de chamados e atendimentos de TI, inspirado em rotinas reais de suporte técnico.
 
-`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `Swagger` `React`
+`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `Swagger`
 
 ---
 
@@ -60,6 +64,14 @@ Sistema para gerenciamento de tarefas e categorias, desenvolvido com API REST em
 
 `C#` `ASP.NET Core` `Entity Framework Core` `SQLite` `Swagger` `React` `TypeScript`
 
+## Portfólio
+
+Conheça outros projetos, minha experiência e formação no meu portfólio:
+
+**[Acessar meu portfólio →](https://gabrieldittrich.github.io/portfolio-gabriel/)**
+
 ## Objetivo profissional
 
-Quero contribuir com o desenvolvimento de aplicações e APIs que resolvam problemas reais, enquanto continuo aprimorando meus conhecimentos em .NET, arquitetura de software, bancos de dados e desenvolvimento full stack.
+Busco desenvolver minha carreira na área de desenvolvimento de software, principalmente com **C#, .NET, APIs REST e bancos de dados**, utilizando também React quando necessário no desenvolvimento full stack.
+
+Meu objetivo é continuar evoluindo em desenvolvimento back-end, arquitetura de aplicações e boas práticas de desenvolvimento, contribuindo em projetos reais e crescendo profissionalmente como desenvolvedor.
